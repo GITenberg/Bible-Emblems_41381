@@ -1,0 +1,32 @@
+_repo: Bible-Emblems_41381
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41381-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Seelye, Edward Eli
+    alias: Seelye, Edward E.
+    birthdate: 1819
+    deathdate: 1864
+    gutenberg_agent_id: '41149'
+    url: http://www.gutenberg.org/2009/agents/41149
+description: ''
+gutenberg_issued: '2012-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Christian life'
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+tableOfContents: The higher Rock -- The sun in his might -- The voice of blood --
+  Christians God's temples -- God's witnesses -- Christians shining -- The raven and
+  the dove -- The rainbow -- The smoking furnace and burning lamp -- The altar of
+  incense -- Eating under the juniper-tree -- The other side.
+title: Bible Emblems
+url: http://www.gutenberg.org/ebooks/41381
